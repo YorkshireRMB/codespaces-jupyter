@@ -1,3 +1,11 @@
+# This is having a play with GMP calcs, codespaces and Jupyter notebooks
+
+I'm having a go at seeing how far I can get with all this lovely tech and some ideas for making GMP calcs easier.  (Guaranteed minimum pension)
+
+Don't use this code for anything important you muppet - it's a test!
+
+
+
 # GitHub Codespaces ♥️ Jupyter Notebooks
 
 Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
